@@ -29,7 +29,7 @@ Tấn công deauth (hủy xác thực) là tính năng chính, có thể đượ
 Mặc dù cuộc tấn công từ chối dịch vụ này không phải là điều gì mới mẻ, nhưng rất nhiều thiết bị vẫn dễ bị tấn công. May mắn thay, điều này đang dần thay đổi khi ngày càng có nhiều thiết bị hỗ trợ WiFi 6 được sử dụng. Nhưng rất nhiều thiết bị WiFi lỗi thời vẫn được sử dụng, ví dụ như trong phần cứng IoT giá rẻ.
 Với ESP8266 Deauther, bạn có thể dễ dàng kiểm tra cuộc tấn công này trên mạng/thiết bị WiFi 2,4 GHz của mình và xem liệu nó có thành công hay không. Và nếu thành công, bạn biết mình nên nâng cấp mạng của mình.
 
-## Disclaimer
+## Tuyên Bố Miễn Trừ Trách Nhiệm
 
 Dự án này mang mục đích thử nghiệm và giáo dục
 Cả ESP8266 và SDK của chúng đều không được thiết kế hoặc xây dựng cho mục đích như vậy. **Lỗi có thể xảy ra!**
