@@ -11,7 +11,7 @@ Hãy vào [Deauther.com](https://deauther.com) về thông tin của dự án n�
 Một số đường link nhanh:
 
 * [Mua](https://deauther.com/docs/buy)
-* [Tải xuống (không có tiếng Việt](https://deauther.com/docs/download)
+* [Tải xuống (không có tiếng Việt)](https://deauther.com/docs/download)
 * [Tải xuống (có tiếng Việt)](https://github.com/MinatoIsuki/esp8266_deauther_vietnamese/releases/latest)
 * [Hướng dẫn DIY](https://deauther.com/docs/category/diy-tutorial)
 * [Sử dụng](https://deauther.com/docs/category/usage)
