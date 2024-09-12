@@ -2,37 +2,38 @@
 
 <img src='https://deauther.com/img/logo.png' alt='Deauther Logo' width='200' />
 
-**Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners.**
+**Quét thiết bị WiFi, chặn kết nối, tạo cả đống WiFi giả và gây khó hiểu cho thiết bị quét WiFi.**
 
-## New Documentation
+## Hướng Dẫn
 
-Hi 👋  
-Please visit [Deauther.com](https://deauther.com) for information about this project.  
-Here are some quick links:
+Chào 👋  
+Hãy vào [Deauther.com](https://deauther.com) về thông tin của dự án này. 
+Một số đường link nhanh:
 
-* [Buy](https://deauther.com/docs/buy)
-* [Download](https://deauther.com/docs/download)
-* [DIY Tutorial](https://deauther.com/docs/category/diy-tutorial)
-* [Usage](https://deauther.com/docs/category/usage)
-* [FAQ](https://deauther.com/docs/faq)
+* [Mua](https://deauther.com/docs/buy)
+* [Tải xuống (không có tiếng Việt](https://deauther.com/docs/download)
+* [Tải xuống (có tiếng Việt)](https://github.com/MinatoIsuki/esp8266_deauther_vietnamese/releases/latest)
+* [Hướng dẫn DIY](https://deauther.com/docs/category/diy-tutorial)
+* [Sử dụng](https://deauther.com/docs/category/usage)
+* [Câu hỏi thường gặp](https://deauther.com/docs/faq)
 
-## Password
+## Mật Khẩu Mặc Định
 
-The password for `pwned` is `deauther`
+Mật khẩu cho `pwned` là `deauther`
 
-## About this Project
+## Về Dự Án Này
 
-This firmware allows you to easily perform a variety of actions to test 802.11 networks using an [ESP8266](https://www.espressif.com/en/products/socs/esp8266). It's also a great project for learning about WiFi, microcontrollers, Arduino, hacking and electronics/programming in general.  
+Phần mềm này giúp bạn thực hiện nhiều hành động để thử kết nối mạng 802.11 bằng [ESP8266](https://www.espressif.com/en/products/socs/esp8266). Đây là một dự án tốt để học hỏi về WiFi, các vi điều khiển, Arduino, hack và thiết bị điện tử nói chung.
 
-The deauthentication attack is the main feature, which can be used to disconnect devices from their WiFi network.  
-Although this denial-of-service attack is nothing new, a lot of devices are still vulnerable to it. Luckily this is slowly changing with more WiFi 6 enabled devices being used. But a lot of outdated WiFi devices remain in place, for example in cheap IoT hardware.
-With an ESP8266 Deauther, you can easily test this attack on your 2.4GHz WiFi network/devices and see whether it's successful or not. And if it is, you know you should upgrade your network.
+Tấn công deauth (hủy xác thực) là tính năng chính, có thể được sử dụng để ngắt kết nối các thiết bị khỏi mạng WiFi.
+Mặc dù cuộc tấn công từ chối dịch vụ này không phải là điều gì mới mẻ, nhưng rất nhiều thiết bị vẫn dễ bị tấn công. May mắn thay, điều này đang dần thay đổi khi ngày càng có nhiều thiết bị hỗ trợ WiFi 6 được sử dụng. Nhưng rất nhiều thiết bị WiFi lỗi thời vẫn được sử dụng, ví dụ như trong phần cứng IoT giá rẻ.
+Với ESP8266 Deauther, bạn có thể dễ dàng kiểm tra cuộc tấn công này trên mạng/thiết bị WiFi 2,4 GHz của mình và xem liệu nó có thành công hay không. Và nếu thành công, bạn biết mình nên nâng cấp mạng của mình.
 
 ## Disclaimer
 
-This project is a proof of concept for testing and educational purposes.  
-Neither the ESP8266, nor its SDK was meant or built for such purposes. **Bugs can occur!**  
+Dự án này mang mục đích thử nghiệm và giáo dục
+Cả ESP8266 và SDK của chúng đều không được thiết kế hoặc xây dựng cho mục đích như vậy. **Lỗi có thể xảy ra!**
 
-**Use it only against your own networks and devices!**  
-Please check the legal regulations in your country before using it.  
-We don't take any responsibility for what you do with this program.  
+**Chỉ sử dụng cho thiết bị và mạng của bạn**  
+Vui lòng kiểm tra các quy định pháp lý tại quốc gia của bạn trước khi sử dụng.
+Chúng tôi không chịu bất kỳ trách nhiệm nào về những gì bạn làm với chương trình này. 
